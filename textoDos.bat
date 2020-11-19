@@ -1,3 +1,4 @@
 echo off
-echo hola, perro
+echo Hola, perro
+echo Esta edición, fue hecha desde github
 pause
