@@ -1,0 +1,1 @@
+Este es un texto de prueba x, cuya función el el entender las bases del uso de git
