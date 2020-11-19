@@ -1,2 +1,3 @@
-@echo hola
+echo off
+echo hola, perro
 pause
